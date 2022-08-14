@@ -1,5 +1,3 @@
-const api = 'VzkT_Zh6a2wLUGwpLJ1dlqVT43qwjtW6KYRXYMjNqkV45LJeW7cWvD5J-o_gGNRx4RWl3cEztErDn9bD3zOBSOrYdHAblDznGpPrB2f1mHh6ntl1lalzxY-qefefXnYx';
-
 const Yelp = {
     search(term, location, sortBy) {
 
